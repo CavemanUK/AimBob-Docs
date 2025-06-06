@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaim_bob_docs=self.webpackChunkaim_bob_docs||[]).push([[1894],{7312:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/AimBob-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

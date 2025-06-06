@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaim_bob_docs=self.webpackChunkaim_bob_docs||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/AimBob-docs/blog","blogTitle":"Blog","authorsListPath":"/AimBob-docs/blog/authors"}')}}]);
